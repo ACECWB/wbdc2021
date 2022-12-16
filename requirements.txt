@@ -1,0 +1,2 @@
+datatable
+deepctr_torch==0.2.6
